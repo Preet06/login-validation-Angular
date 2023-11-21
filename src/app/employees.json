@@ -1,0 +1,39 @@
+[  
+  {  
+    "id": 1,  
+    "name": "Preet",  
+    "email": "Preet@gmail.com",  
+    "gender": "male",
+    "location":"Nagpur"
+  },  
+  {  
+    "id": 2,  
+    "name": "Leena",  
+    "email": "Leena@gmail.com",  
+    "gender": "female"  ,
+    "location":"Pune"
+  },  
+  {  
+    "id": 3,  
+    "name": "Pratik",  
+    "email": "Pratik@gmail.com",  
+    "gender": "Male",
+    "location":"Banglore"  
+  },  
+  {  
+    "id": 4,  
+    "name": "Akash",  
+    "email": "akash@gmail.com",  
+    "gender": "male",
+    "location":"Chennai"  
+  },  
+  {  
+    "id": 5,  
+    "name": "Veer",  
+    "email": "veer@gmail.com",  
+    "gender": "male",
+    "location":"Indore"  
+  }  
+
+
+]  
